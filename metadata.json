@@ -1,0 +1,6 @@
+{
+  "name": "Laye Consultant",
+  "description": "Responsive AI-powered support and consulting portal with automated intelligent triage, urgency detection, conversation tracking, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
